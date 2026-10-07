@@ -9,7 +9,7 @@ dynamic = ["version"]
 dependencies = [
    "openquake.gem-taxonomy-data @ git+https://github.com/gem/oq-gem-taxonomy-data.git@v1.4.1",
    "parsimonious == 0.10.0",
-   "setuptools>=65,<81"
+   "setuptools>=65,<84"
 ]
 
 requires-python = ">=3.11"
